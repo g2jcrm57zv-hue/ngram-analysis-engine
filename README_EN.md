@@ -23,7 +23,8 @@ Due to the large file sizes, the raw Google NGrams datasets are not included in 
 For further details regarding the project specifications or related resources, please refer to the following link:
 [https://drive.google.com/file/d/1xGTZqCo5maiZjA307OPocmKDOTYlJXnz/view](https://drive.google.com/file/d/1xGTZqCo5maiZjA307OPocmKDOTYlJXnz/view)
 
-## Getting Started
-1.  Verify that the `data` folder and its subdirectories are correctly placed in the project root.
-2.  Run the `main.Main` class to start the backend server.
-3.  Once the server is ignited, access the local address provided in the console (typically http://localhost:4567/ngordnet_2a.html) using a web browser to interact with the engine.
+## How to Run
+1. Ensure the `data` directory and its subfiles are correctly configured.
+2. Ensure the project has correctly loaded the external dependencies located in the `library-sp24/` directory.
+3. Run the `main.Main` class to start the backend server.
+4. Once the server is running, interact with the application by accessing the local address provided in the console logs via your web browser (typically `http://localhost:4567/ngordnet_2a.html`).
